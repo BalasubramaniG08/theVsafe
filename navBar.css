@@ -1,0 +1,68 @@
+
+  
+.navInfoBody{
+    background-image: radial-gradient(
+        circle,
+        #3196ca 0%,
+        #1d5d9a 100%
+      );
+      padding: 8px;
+    
+}
+
+.navImgBox i{
+    color: white;
+    padding-left: 20px;
+    font-size: 17px;
+}
+
+.navImgBox{
+    padding-left: 95px;
+}
+
+.navContactBox i{
+    color: white;
+    padding-right: 10px;
+    font-size: 15px;
+}
+
+.navContactBox p{
+    color: white;
+    padding-right: 20px;
+    font-weight: 600;
+}
+
+.navContactBox{
+    padding-left: 17rem;
+}
+
+.logoBox a figure img{
+    height:4rem ;
+    width: 15.5rem;
+    margin:20px 90px;
+}
+
+.navBox ul li a{
+    padding: 12px;
+}
+
+.navBox{
+    margin: 30px;
+}
+
+.demoBox button{
+    color: white;
+    background-image:radial-gradient(
+        circle,
+        #3196ca 0%,
+        #1d5d9a 100%
+      ) ;
+      padding: 10px 20px;
+      font-weight: 600;
+      font-size: 16px;
+      border: none;
+      border-radius: 3px;
+      margin:15px;
+      margin-left: 135px;
+}
+

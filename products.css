@@ -1,0 +1,58 @@
+.productsBox h2{
+    font-size: 40px;
+    font-weight: 500;
+    color: #6c757d;
+    padding-bottom: 20px;
+}
+
+.lockerBox h3{
+    color:#1d5d9a;
+    font-size: 30px;
+    font-weight: 500;
+    padding-bottom: 20px;
+}   
+
+.lockerBox h3 span{
+    color:black;
+    font-size: 30px;
+    font-weight: 500;
+    font-family: "Azonix", sans-serif;
+} 
+
+.lockerBox p{
+    font-weight: 400;
+    color: #6c757d;
+    font-size: 20px;
+    padding-bottom: 25px;
+}
+
+.lockerBox button{
+    color: white;
+    background-image:radial-gradient(
+        circle,
+        #3196ca 0%,
+        #1d5d9a 100%
+      ) ;
+      padding: 10px 20px;
+      font-weight: 600;
+      font-size: 20px;
+      border: none;
+      border-radius: 3px;
+}
+
+
+.lockerBox p span{
+    color:black;
+    font-size: 25px;
+    font-weight: 500;
+    font-family: "Azonix", sans-serif;
+}
+
+.lockerBox{
+    padding-left: 20px;
+}
+
+.productContainer{
+    padding-bottom: 50px;
+    border-bottom:1px solid #6c757d ;
+}

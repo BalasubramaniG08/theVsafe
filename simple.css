@@ -1,0 +1,51 @@
+.simpleBox h3{
+    font-size: 40px;
+    font-weight: 500;
+    color: #212529;
+}
+
+.simpleBox h3 span{
+    font-size: 40px;
+    font-weight: 500;
+    color:#1d5d9a;
+}
+
+.simpleBox h4{
+    font-size: 40px;
+    font-weight: 500;
+    color: #6c757d;
+    padding-bottom: 20px;
+}
+
+.superiorBody{
+    background-image: linear-gradient(45deg, #3196ca 0%, #1d5d9a 100%) !important;
+    border-radius: 30px;
+}
+
+
+.cardBoxSafe{
+    padding: 35px;
+    width: 75%;
+    
+}
+
+.cardHeaderSafe{
+    font-size: 50px;
+    padding: 10px;
+    color: white;
+
+}
+
+.cardMainSafe h3{
+    font-weight: 600;
+    color: white;
+    padding-bottom: 20px;
+}
+
+.simple{
+    background-image: url(./assets/images/bgImg.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size:cover;
+    padding: 6rem 0rem 6rem;
+}

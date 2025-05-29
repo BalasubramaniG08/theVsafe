@@ -1,0 +1,36 @@
+.demo{
+    background-image:radial-gradient(
+        circle,
+        #3196ca 0%,
+        #1d5d9a 100%
+      ) ;
+}
+
+.demoBox h2{
+    color: white;
+    font-size: 45px;
+    font-weight: 500;
+}
+
+.demoBox p{
+    color: white;
+    font-size: 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+.tableBody{
+    grid-template-columns: 1fr 4fr 5fr;
+}
+
+.img-1 figure img,
+.img-2 figure img{
+    background-color: white;
+    border-radius: 15px;
+    margin: 20px;
+    padding: 10px;
+}
+
+.demoImgBox-2 figure img{
+    padding-left: 30px;
+}

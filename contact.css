@@ -1,0 +1,57 @@
+.contactImgBox{
+    max-width: 240px;
+}
+
+.Vsafe img{
+    padding-bottom: 30px;
+}
+
+.contactImgBox figure img{
+    /* padding: 5px; */
+}
+
+.conProductBox h3{
+    font-weight: 600;
+    font-size: 16px;
+    padding-bottom: 20px;
+}
+
+.conProductBox ul li{
+    padding-bottom: 10px;
+    color: #212529;
+}
+
+.conReachBox h3{
+    font-weight: 600;
+    font-size: 16px;
+    padding:  15px;
+    display: flex;
+    justify-content: center;
+}
+
+.conReachBox i{
+    font-size: 25px;
+    padding: 15px;
+}
+
+.conLinkBox h3{
+    font-weight: 600;
+    font-size: 16px;
+    padding-bottom: 20px;
+}
+
+.conLinkBox ul li{
+    padding-bottom: 10px;
+    color: #212529;
+}
+
+.quickLinkBox h3{
+    font-weight: 600;
+    font-size: 16px;
+    padding-bottom: 20px;
+}
+
+.quickLinkBox ul li{
+    padding-bottom: 10px;
+    color: #212529;
+}

@@ -1,0 +1,42 @@
+.doorBox h3{
+    color:#1d5d9a;
+    font-size: 30px;
+    font-weight: 500;
+    padding-bottom: 15px;
+}
+
+.doorBox h3 span{
+    color:black;
+    font-size: 30px;
+    font-weight: 500;
+    font-family: "Azonix", sans-serif;
+} 
+
+.doorBox p{
+    font-weight: 400;
+    color: #6c757d;
+    font-size: 20px;
+    padding-bottom: 25px;
+}
+
+.doorBox button{
+    color: white;
+    background-image:radial-gradient(
+        circle,
+        #3196ca 0%,
+        #1d5d9a 100%
+      ) ;
+      padding: 10px 20px;
+      font-weight: 600;
+      font-size: 20px;
+      border: none;
+      border-radius: 3px;
+}
+
+
+.doorBox p span{
+    color:black;
+    font-size: 25px;
+    font-weight: 500;
+    font-family: "Azonix", sans-serif;
+}
